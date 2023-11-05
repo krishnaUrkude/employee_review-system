@@ -1,8 +1,9 @@
 # Live
-https://employee-review-zap9.onrender.com/employee/signin
+https://employee-review-system-xv5o.onrender.com
 
 # Preview
-![image-removebg-preview (5)](https://github.com/masoom2313189/employee-review/assets/105916377/5c12da83-1749-4fa3-ba6f-606e2d9318f4)
+![image](https://github.com/krishnaUrkude/employee_review-system/assets/140192785/6790ec9d-bc26-40e5-ad98-f400386198ca)
+
 
 
 ## Setup
